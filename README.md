@@ -18,5 +18,5 @@
 2. 강의
     - 이수안컴퓨터연구소 - [파이썬 프로그래밍](http://suanlab.com/youtube/pp.html)
 3. 실습 방법
-    - 구글 Colab 사용(권장)
+    - [구글 Colab](https://colab.research.google.com/) 사용(권장)
     - 로컬에 파이썬 설치 후 사용
