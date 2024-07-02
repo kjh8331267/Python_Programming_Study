@@ -12,8 +12,8 @@
 |6|2024.06.04|[minsu](https://github.com/seo-minsu)|제어문(조건문, 반복문), 에러와 예외처리|[코드](https://github.com/seo-minsu/Python-Programming-Study_Minsu/blob/main/_05_%EC%A0%9C%EC%96%B4%EB%AC%B8.ipynb)|
 |7|2024.06.11|[Sohee](https://github.com/SoheeKim12/python-base)|입력과 출력|[코드](https://github.com/SoheeKim12/python-base/blob/main/_06_%EC%9E%85%EB%A0%A5%EA%B3%BC_%EC%B6%9C%EB%A0%A5.ipynb)|
 |8|2024.06.18|[omj](https://github.com/omj3424)|함수|[코드](https://github.com/omj3424/python/blob/main/_07_%ED%95%A8%EC%88%98.ipynb)|
-|9||kwanization|객체와 클래스|코드|
-|10||Sohee|모듈과 패키지|코드|
+|9|2024.07.02|[kwanization](https://github.com/kwanization)|객체와 클래스|[코드](https://github.com/kwanization/PPS/blob/main/_08_%EA%B0%9D%EC%B2%B4%EC%99%80_%ED%81%B4%EB%9E%98%EC%8A%A4.ipynb)|
+|10|2024.07.09|[Sohee](https://github.com/SoheeKim12/python-base)|모듈과 패키지|[코드](https://github.com/SoheeKim12/python-base/blob/main/_09_%EB%AA%A8%EB%93%88%EA%B3%BC_%ED%8C%A8%ED%82%A4%EC%A7%80.ipynb)|
     
 1. 스터디 방식 : 강의 들으면서 실습 후 발표
 2. 강의
