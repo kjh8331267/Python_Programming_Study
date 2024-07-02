@@ -59,11 +59,11 @@
 
 1. 스터디 방식
     - 과제 수행
-          - pandas_exercises폴더 내 Exercises.ipynb 각자 풀기
-          - 각 문제별 예상 결과는 Solutions.ipynb를 참고
-          - 풀이(Exercise_with_Solutions.ipynb)은 매주 스터디 11시에 업로드
+        - pandas_exercises폴더 내 Exercises.ipynb 각자 풀기
+        - 각 문제별 예상 결과는 Solutions.ipynb를 참고
+        - 풀이(Exercise_with_Solutions.ipynb)는 매주 스터디날 오전 11시에 업로드
     - 스터디 발표
-          - 매주 챕터별로 데이터셋에 따라 2~5명이 발표함.
-          - 각자 맡은 부분을 본인의 풀이로 발표
+        - 매주 챕터별로 데이터셋에 따라 2~5명이 발표함.
+        - 각자 맡은 부분을 본인의 풀이로 발표
 2. 스터디 규칙
     - 참여자별 과제 수행 여부 체크
