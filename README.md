@@ -29,11 +29,11 @@
 
 |NO|일자|내용|데이터셋|발표자|코드|
 |---|------|---|:---|---|---|
-|1|2024.07.23|Getting & Knowing Your Data|Chipotle|||
-||||Occupation|||
-||||World Food Facts|||
-|2|2024.07.30|Filtering & Sorting|Chipotle|||
-||||Euro12|||
+|1|2024.07.23|Getting & Knowing Your Data|Chipotle|소희||
+||||Occupation|민수||
+||||World Food Facts|고관||
+|2|2024.07.30|Filtering & Sorting|Chipotle|지은||
+||||Euro12|명주||
 ||||Fictional Army|||
 |3|2024.08.06|Grouping|Alcohol_Consumption|||
 ||||Occupation|||
