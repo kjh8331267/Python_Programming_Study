@@ -29,33 +29,33 @@
 
 |NO|일자|내용|데이터셋|발표자|코드|
 |---|------|---|:---|---|---|
-|1|2024.07.23|Getting & Knowing Your Data|Chipotle|소희||
-||||Occupation|민수||
-||||World Food Facts|고관||
-|2|2024.07.30|Filtering & Sorting|Chipotle|지은||
-||||Euro12|명주||
-||||Fictional Army|||
-|3|2024.08.06|Grouping|Alcohol_Consumption|||
-||||Occupation|||
-||||Regiment|||
-|4|2024.08.13|Apply|Students_Alcohol_Consumption|||
-||||US_Crime_Rates|||
-|5|2024.08.20|Merge|Auto_MPG|||
-||||Fictitous Names|||
-||||Housing Market|||
-|6|2024.08.20|Stats|US_Baby_Names|||
-||||Wind_Stats|||
-|7|2024.08.27|Visualization|Chipotle|||
-||||Online_Retail|||
-||||Scores|||
-||||Tips|||
-||||Titanic_Desaster|||
-|8|2024.09.03|Creating Series and DataFrames|Pokemon|||
-|9|2024.09.10|Time Series|Apple_Stock|||
-||||Getting_Financial_Data|||
-||||Investor_Flow_of_Funds_US|||
-|10|2024.09.24|Deleting|Iris|||
-||||Wine|||
+|1|2024.07.23|Getting & Knowing Your Data|Chipotle|Sohee||
+||||Occupation|minsu||
+||||World Food Facts|kwanization||
+|2|2024.07.30|Filtering & Sorting|Chipotle|stopsilver||
+||||Euro12|omj||
+||||Fictional Army|Sohee||
+|3|2024.08.06|Grouping|Alcohol_Consumption|minsu||
+||||Occupation|kwanization||
+||||Regiment|stopsilver||
+|4|2024.08.13|Apply|Students_Alcohol_Consumption|omj||
+||||US_Crime_Rates|Sohee||
+|5|2024.08.20|Merge|Auto_MPG|minsu||
+||||Fictitous Names|kwanization||
+||||Housing Market|stopsilver||
+|6|2024.08.20|Stats|US_Baby_Names|omj||
+||||Wind_Stats|Sohee||
+|7|2024.08.27|Visualization|Chipotle|minsu||
+||||Online_Retail|kwanization||
+||||Scores|stopsilver||
+||||Tips|omj||
+||||Titanic_Desaster|Sohee||
+|8|2024.09.03|Creating Series and DataFrames|Pokemon|minsu||
+|9|2024.09.10|Time Series|Apple_Stock|kwanization||
+||||Getting_Financial_Data|stopsilver||
+||||Investor_Flow_of_Funds_US|omj||
+|10|2024.09.24|Deleting|Iris|Sohee||
+||||Wine|minsu||
 
 1. 스터디 방식
     - 과제 수행
