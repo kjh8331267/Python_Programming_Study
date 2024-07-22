@@ -7,30 +7,30 @@
 |1|2024.07.23|Getting & Knowing Your Data|Chipotle|Sohee||
 ||||Occupation|minsu||
 ||||World Food Facts|kwanization||
-|2|2024.07.30|Filtering & Sorting|Chipotle|stopsilver||
+|2|2024.07.30|Filtering & Sorting|Chipotle|jhkim||
 ||||Euro12|omj||
 ||||Fictional Army|Sohee||
 |3|2024.08.06|Grouping|Alcohol_Consumption|minsu||
 ||||Occupation|kwanization||
-||||Regiment|stopsilver||
-|4|2024.08.13|Apply|Students_Alcohol_Consumption|omj||
-||||US_Crime_Rates|Sohee||
-|5|2024.08.20|Merge|Auto_MPG|minsu||
-||||Fictitous Names|kwanization||
-||||Housing Market|stopsilver||
-|6|2024.08.20|Stats|US_Baby_Names|omj||
-||||Wind_Stats|Sohee||
-|7|2024.08.27|Visualization|Chipotle|minsu||
-||||Online_Retail|kwanization||
-||||Scores|stopsilver||
-||||Tips|omj||
-||||Titanic_Desaster|Sohee||
-|8|2024.09.03|Creating Series and DataFrames|Pokemon|minsu||
-|9|2024.09.10|Time Series|Apple_Stock|kwanization||
-||||Getting_Financial_Data|stopsilver||
-||||Investor_Flow_of_Funds_US|omj||
-|10|2024.09.24|Deleting|Iris|Sohee||
-||||Wine|minsu||
+||||Regiment|omj||
+|4|2024.08.13|Apply|Students_Alcohol_Consumption|Sohee||
+||||US_Crime_Rates|minsu||
+|5|2024.08.20|Merge|Auto_MPG|kwanization||
+||||Fictitous Names|omj||
+||||Housing Market|Sohee||
+|6|2024.08.20|Stats|US_Baby_Names|minsu||
+||||Wind_Stats|kwanization||
+|7|2024.08.27|Visualization|Chipotle|omj||
+||||Online_Retail|Sohee||
+||||Scores|minsu||
+||||Tips|kwanization||
+||||Titanic_Desaster|jhkim||
+|8|2024.09.03|Creating Series and DataFrames|Pokemon|omj||
+|9|2024.09.10|Time Series|Apple_Stock|Sohee||
+||||Getting_Financial_Data|minsu||
+||||Investor_Flow_of_Funds_US|kwanization||
+|10|2024.09.24|Deleting|Iris|omj||
+||||Wine|Sohee||
 
 1. 스터디 방식
     - 과제 수행
