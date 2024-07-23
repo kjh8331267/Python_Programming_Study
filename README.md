@@ -4,7 +4,7 @@
 
 |NO|일자|내용|데이터셋|발표자|코드|
 |---|------|---|:---|---|---|
-|1|2024.07.23|Getting & Knowing Your Data|Chipotle|Sohee|[코드]([https://github.com/stopsilver831/02_V.D.O/blob/main/_02_%EB%B3%80%EC%88%98%2C_%EC%9E%90%EB%A3%8C%ED%98%95%2C_%EC%97%B0%EC%82%B0%EC%9E%90_20240516.ipynb](https://github.com/SoheeKim12/Python_Programming_Study/blob/main/pandas_exercises/01_Getting_%26_Knowing_Your_Data/Chipotle/Exercises.ipynb)|
+|1|2024.07.23|Getting & Knowing Your Data|Chipotle|Sohee|[코드](https://github.com/SoheeKim12/Python_Programming_Study/blob/main/pandas_exercises/01_Getting_%26_Knowing_Your_Data/Chipotle/Exercises.ipynb)|
 ||||Occupation|minsu||
 ||||World Food Facts|kwanization||
 |2|2024.07.30|Filtering & Sorting|Chipotle|jhkim||
