@@ -4,32 +4,32 @@
 
 |NO|일자|내용|데이터셋|발표자|코드|
 |---|------|---|:---|---|---|
-|1|2024.07.23|1.Getting & Knowing Your Data|Chipotle|Sohee|[코드](https://github.com/SoheeKim12/Python_Programming_Study/blob/main/pandas_exercises/01_Getting_%26_Knowing_Your_Data/Chipotle/Exercises.ipynb)|
+|1|2024.07.23|1. Getting & Knowing Your Data|Chipotle|Sohee|[코드](https://github.com/SoheeKim12/Python_Programming_Study/blob/main/pandas_exercises/01_Getting_%26_Knowing_Your_Data/Chipotle/Exercises.ipynb)|
 |2|2024.07.30||Occupation|minsu||
 ||||World Food Facts|kwanization||
-|3|2024.08.06|2.Filtering & Sorting|Chipotle|Sohee||
+|3|2024.08.06|2. Filtering & Sorting|Chipotle|Sohee||
 ||||Euro12|omj||
 ||||Fictional Army|Sohee||
-|4|2024.08.13|3.Grouping|Alcohol_Consumption|minsu||
+|4|2024.08.13|3. Grouping|Alcohol_Consumption|minsu||
 ||||Occupation|kwanization||
 ||||Regiment|omj||
-|5|2024.08.20|4.Apply|Students_Alcohol_Consumption|Sohee||
+|5|2024.08.20|4. Apply|Students_Alcohol_Consumption|Sohee||
 ||||US_Crime_Rates|minsu||
-|6|2024.08.27|5.Merge|Auto_MPG|kwanization||
+|6|2024.08.27|5. Merge|Auto_MPG|kwanization||
 ||||Fictitous Names|omj||
 ||||Housing Market|Sohee||
-|7|2024.09|6.Stats|US_Baby_Names|minsu||
+|7|2024.09|6. Stats|US_Baby_Names|minsu||
 ||||Wind_Stats|kwanization||
-|8|2024.09|7.Visualization|Chipotle|omj||
+|8|2024.09|7. Visualization|Chipotle|omj||
 ||||Online_Retail|Sohee||
 ||||Scores|minsu||
 ||||Tips|kwanization||
 ||||Titanic_Desaster|jhkim||
-|9|2024.09|8.Creating Series and DataFrames|Pokemon|omj||
-|10|2024.09|9.Time Series|Apple_Stock|Sohee||
+|9|2024.09|8. Creating Series and DataFrames|Pokemon|omj||
+|10|2024.09|9. Time Series|Apple_Stock|Sohee||
 ||||Getting_Financial_Data|minsu||
 ||||Investor_Flow_of_Funds_US|kwanization||
-|11|2024.09|10.Deleting|Iris|omj||
+|11|2024.09|10. Deleting|Iris|omj||
 ||||Wine|Sohee||
 
 1. 스터디 방식
