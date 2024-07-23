@@ -5,38 +5,38 @@
 |NO|일자|내용|데이터셋|발표자|코드|
 |---|------|---|:---|---|---|
 |1|2024.07.23|Getting & Knowing Your Data|Chipotle|Sohee|[코드](https://github.com/SoheeKim12/Python_Programming_Study/blob/main/pandas_exercises/01_Getting_%26_Knowing_Your_Data/Chipotle/Exercises.ipynb)|
-||||Occupation|minsu||
+|2|2024.07.30||Occupation|minsu||
 ||||World Food Facts|kwanization||
-|2|2024.07.30|Filtering & Sorting|Chipotle|jhkim||
+|3|2024.08.06|Filtering & Sorting|Chipotle|Sohee||
 ||||Euro12|omj||
 ||||Fictional Army|Sohee||
-|3|2024.08.06|Grouping|Alcohol_Consumption|minsu||
+|4|2024.08.13|Grouping|Alcohol_Consumption|minsu||
 ||||Occupation|kwanization||
 ||||Regiment|omj||
-|4|2024.08.13|Apply|Students_Alcohol_Consumption|Sohee||
+|5|2024.08.20|Apply|Students_Alcohol_Consumption|Sohee||
 ||||US_Crime_Rates|minsu||
-|5|2024.08.20|Merge|Auto_MPG|kwanization||
+|6|2024.08.27|Merge|Auto_MPG|kwanization||
 ||||Fictitous Names|omj||
 ||||Housing Market|Sohee||
-|6|2024.08.20|Stats|US_Baby_Names|minsu||
+|7|2024.09|Stats|US_Baby_Names|minsu||
 ||||Wind_Stats|kwanization||
-|7|2024.08.27|Visualization|Chipotle|omj||
+|8|2024.09|Visualization|Chipotle|omj||
 ||||Online_Retail|Sohee||
 ||||Scores|minsu||
 ||||Tips|kwanization||
 ||||Titanic_Desaster|jhkim||
-|8|2024.09.03|Creating Series and DataFrames|Pokemon|omj||
-|9|2024.09.10|Time Series|Apple_Stock|Sohee||
+|9|2024.09|Creating Series and DataFrames|Pokemon|omj||
+|10|2024.|Time Series|Apple_Stock|Sohee||
 ||||Getting_Financial_Data|minsu||
 ||||Investor_Flow_of_Funds_US|kwanization||
-|10|2024.09.24|Deleting|Iris|omj||
+|11|2024.09|Deleting|Iris|omj||
 ||||Wine|Sohee||
 
 1. 스터디 방식
     - 과제 수행
         - pandas_exercises폴더 내 Exercises.ipynb 각자 풀기
         - 각 문제별 예상 결과는 Solutions.ipynb를 참고
-        - 풀이(Exercise_with_Solutions.ipynb)는 매주 스터디날 오전 11시에 업로드
+        - 풀이(Exercise_with_Solutions.ipynb)는 매주 스터디날 오전 10시에 업로드
     - 스터디 발표
         - 매주 챕터별로 데이터셋에 따라 2~5명이 발표함.
         - 각자 맡은 부분을 본인의 풀이로 발표
