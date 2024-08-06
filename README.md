@@ -7,9 +7,9 @@
 |1|2024.07.23|1. Getting & Knowing Your Data|Chipotle|[Sohee](https://github.com/SoheeKim12)|[코드](https://github.com/SoheeKim12/Python_Programming_Study/blob/main/pandas_exercises/01_Getting_%26_Knowing_Your_Data/Chipotle/Exercises.ipynb)|
 |2|2024.07.30||Occupation|[minsu](https://github.com/seo-minsu)|[코드](https://github.com/seo-minsu/Python_Programming_Study/blob/main/pandas_exercises/01_Getting_%26_Knowing_Your_Data/Occupation/Exercises(MS).ipynb)|
 ||||World Food Facts|[kwanization](https://github.com/kwanization)|[코드](https://github.com/kwanization/PPS-S2/blob/main/pandas_exercises/01_Getting_%26_Knowing_Your_Data/World%20Food%20Facts/Exercises.ipynb)|
-|3|2024.08.06|2. Filtering & Sorting|Chipotle|Sohee(https://github.com/SoheeKim12)|[코드](https://github.com/SoheeKim12/Python_Programming_Study/blob/main/pandas_exercises/02_Filtering_%26_Sorting/Chipotle/Exercises_sh.ipynb)|
+|3|2024.08.06|2. Filtering & Sorting|Chipotle|[Sohee](https://github.com/SoheeKim12)|[코드](https://github.com/SoheeKim12/Python_Programming_Study/blob/main/pandas_exercises/02_Filtering_%26_Sorting/Chipotle/Exercises_sh.ipynb)|
 ||||Euro12|omj||
-||||Fictional Army|Sohee(https://github.com/SoheeKim12)|[코드](https://github.com/SoheeKim12/Python_Programming_Study/blob/main/pandas_exercises/02_Filtering_%26_Sorting/Fictional%20Army/Exercise_sh.ipynb)|
+||||Fictional Army|[Sohee](https://github.com/SoheeKim12)|[코드](https://github.com/SoheeKim12/Python_Programming_Study/blob/main/pandas_exercises/02_Filtering_%26_Sorting/Fictional%20Army/Exercise_sh.ipynb)|
 |4|2024.08.13|3. Grouping|Alcohol_Consumption|minsu||
 ||||Occupation|kwanization||
 ||||Regiment|omj||
