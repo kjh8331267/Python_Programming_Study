@@ -17,7 +17,7 @@
 ||||US_Crime_Rates|[minsu](https://github.com/seo-minsu)|[코드](https://github.com/seo-minsu/Python-Programming-Study_Minsu/blob/main/pandas_exercises/04_Apply/US_Crime_Rates/Exercises_ms.ipynb)|
 |6|2024.09.|5. Merge|Auto_MPG|kwanization|[코드]|
 ||||Fictitous Names|omj||
-||||Housing Market|[Sohee]((https://github.com/SoheeKim12))|[코드](https://github.com/SoheeKim12/Python_Programming_Study/blob/main/pandas_exercises/05_Merge/Housing%20Market/Exercises_sh.ipynb)|
+||||Housing Market|[Sohee](https://github.com/SoheeKim12)|[코드](https://github.com/SoheeKim12/Python_Programming_Study/blob/main/pandas_exercises/05_Merge/Housing%20Market/Exercises_sh.ipynb)|
 |7|2024.09|6. Stats|US_Baby_Names|minsu||
 ||||Wind_Stats|kwanization||
 |8|2024.09|7. Visualization|Chipotle|omj||
