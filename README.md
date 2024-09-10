@@ -19,7 +19,7 @@
 ||||Fictitous Names|[omj](https://github.com/omj3424)|[코드](https://github.com/omj3424/Python_Programming_Study/blob/main/pandas_exercises/05_Merge/Fictitous%20Names/Exercises.ipynb)|
 ||||Housing Market|[Sohee](https://github.com/SoheeKim12)|[코드](https://github.com/SoheeKim12/Python_Programming_Study/blob/main/pandas_exercises/05_Merge/Housing%20Market/Exercises_sh.ipynb)|
 |7|2024.09|6. Stats|US_Baby_Names|minsu||
-||||Wind_Stats|kwanization||
+||||Wind_Stats|[kwanization](https://github.com/kwanization)|[코드](https://github.com/kwanization/PPS-S2/blob/main/pandas_exercises/06_Stats/Wind_Stats/Exercises.ipynb)|
 |8|2024.09|7. Visualization|Chipotle|omj||
 ||||Online_Retail|Sohee||
 ||||Scores|minsu||
