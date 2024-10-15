@@ -18,11 +18,11 @@
 |6|2024.09.03|5. Merge|Auto_MPG|[kwanization](https://github.com/kwanization)|[코드](https://github.com/kwanization/PPS-S2/blob/main/pandas_exercises/05_Merge/Auto_MPG/Exercises.ipynb)|
 ||||Fictitous Names|[omj](https://github.com/omj3424)|[코드](https://github.com/omj3424/Python_Programming_Study/blob/main/pandas_exercises/05_Merge/Fictitous%20Names/Exercises.ipynb)|
 ||||Housing Market|[Sohee](https://github.com/SoheeKim12)|[코드](https://github.com/SoheeKim12/Python_Programming_Study/blob/main/pandas_exercises/05_Merge/Housing%20Market/Exercises_sh.ipynb)|
-|7|2024.09|6. Stats|US_Baby_Names|minsu||
+|7|2024.09|6. Stats|US_Baby_Names|[minsu](https://github.com/seo-minsu)|[코드](https://github.com/seo-minsu/Python-Programming-Study_Minsu/tree/main/pandas_exercises/06_Stats/US_Baby_Names)|
 ||||Wind_Stats|[kwanization](https://github.com/kwanization)|[코드](https://github.com/kwanization/PPS-S2/blob/main/pandas_exercises/06_Stats/Wind_Stats/Exercises.ipynb)|
-|8|2024.09|7. Visualization|Chipotle|omj||
-||||Online_Retail|Sohee||
-||||Scores|minsu||
+|8|2024.09|7. Visualization|Chipotle|[omj](https://github.com/omj3424)|[코드](https://github.com/omj3424/Python_Programming_Study/blob/main/pandas_exercises/07_Visualization/Chipotle/Exercises.ipynb)|
+||||Online_Retail|[Sohee](https://github.com/SoheeKim12)|[코드](https://github.com/SoheeKim12/Python_Programming_Study/blob/main/pandas_exercises/07_Visualization/Online_Retail/Exercises_sh.ipynb)|
+||||Scores|[minsu](https://github.com/seo-minsu)|[코드](https://github.com/seo-minsu/Python_Programming_Study/blob/main/pandas_exercises/07_Visualization/Scores/Exercises.ipynb)|
 ||||Tips|kwanization||
 ||||Titanic_Desaster|jhkim||
 |9|2024.09|8. Creating Series and DataFrames|Pokemon|omj||
