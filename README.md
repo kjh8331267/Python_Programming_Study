@@ -30,7 +30,7 @@
 ||||Getting_Financial_Data|minsu||
 ||||Investor_Flow_of_Funds_US|kwanization||
 |11|2024.09|10. Deleting|Iris|[omj](https://github.com/omj3424)|[코드](https://github.com/omj3424/Python_Programming_Study/blob/main/pandas_exercises/10_Deleting/Iris/Exercises.ipynb)|
-||||Wine|Sohee||
+||||Wine|Sohee(https://github.com/SoheeKim12)|[코드](https://github.com/SoheeKim12/Python_Programming_Study/blob/main/pandas_exercises/10_Deleting/Wine/Exercises_sh.ipynb)|
 
 1. 스터디 방식
     - 과제 수행
