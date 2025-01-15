@@ -27,7 +27,7 @@
 ||||Titanic_Desaster|jhkim||
 |9|2024.09|8. Creating Series and DataFrames|Pokemon|[omj](https://github.com/omj3424)|[코드](https://github.com/omj3424/Python_Programming_Study/blob/main/pandas_exercises/08_Creating_Series_and_DataFrames/Pokemon/Exercises.ipynb)|
 |10|2024.09|9. Time Series|Apple_Stock|[Sohee](https://github.com/SoheeKim12)|[코드](https://github.com/SoheeKim12/Python_Programming_Study/blob/main/pandas_exercises/09_Time_Series/Apple_Stock/Exercises_sh.ipynb)|
-||||Getting_Financial_Data|minsu||
+||||Getting_Financial_Data|minsu|코드|
 ||||Investor_Flow_of_Funds_US|kwanization||
 |11|2024.09|10. Deleting|Iris|[omj](https://github.com/omj3424)|[코드](https://github.com/omj3424/Python_Programming_Study/blob/main/pandas_exercises/10_Deleting/Iris/Exercises.ipynb)|
 ||||Wine|[Sohee](https://github.com/SoheeKim12)|[코드](https://github.com/SoheeKim12/Python_Programming_Study/blob/main/pandas_exercises/10_Deleting/Wine/Exercises_sh.ipynb)|
