@@ -24,7 +24,7 @@
 ||||Online_Retail|[Sohee](https://github.com/SoheeKim12)|[코드](https://github.com/SoheeKim12/Python_Programming_Study/blob/main/pandas_exercises/07_Visualization/Online_Retail/Exercises_sh.ipynb)|
 ||||Scores|[minsu](https://github.com/seo-minsu)|[코드](https://github.com/seo-minsu/Python_Programming_Study/blob/main/pandas_exercises/07_Visualization/Scores/Exercises.ipynb)|
 ||||Tips|kwanization||
-||||Titanic_Desaster|jhkim||
+||||Titanic_Desaster|[minsu](https://github.com/seo-minsu)|[코드](https://github.com/seo-minsu/Python_Programming_Study/blob/main/exercises.ipynb)|
 |9|2024.09|8. Creating Series and DataFrames|Pokemon|[omj](https://github.com/omj3424)|[코드](https://github.com/omj3424/Python_Programming_Study/blob/main/pandas_exercises/08_Creating_Series_and_DataFrames/Pokemon/Exercises.ipynb)|
 |10|2024.09|9. Time Series|Apple_Stock|[Sohee](https://github.com/SoheeKim12)|[코드](https://github.com/SoheeKim12/Python_Programming_Study/blob/main/pandas_exercises/09_Time_Series/Apple_Stock/Exercises_sh.ipynb)|
 ||||Getting_Financial_Data|minsu|코드|
